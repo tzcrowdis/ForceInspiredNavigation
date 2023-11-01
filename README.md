@@ -1,6 +1,6 @@
 # ForceInspiredNavigation
 
-The hypothesis for this experiment was, if an agent treats obstacles like forces that grow as it gets closer the agent will be able to move around them in a superficially natural way. This turned out to be somewhat true. The agent under the right circumstances can move smoothly around obstacles. There are less optimal circumstances where the agent appears almost drunk, bumping into an obstacle before moving around it. Under the worst circumstances the agent will get stuck moving forward and backward towards its destination and away from an obstacle directly in its path.
+The hypothesis for this experiment was, if an agent treats obstacles like forces that grow as it gets closer to them the agent will be able to move around them in a superficially natural way. This turned out to be somewhat true. The agent under the right circumstances can move smoothly around obstacles. There are less optimal circumstances where the agent appears almost drunk, bumping into an obstacle before moving around it. Under the worst circumstances the agent will get stuck moving forward and backward towards its destination stuck on an obstacle directly in its path.
 
 ## Method:
 
