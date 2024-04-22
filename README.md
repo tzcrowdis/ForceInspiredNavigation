@@ -17,7 +17,7 @@ Then $\theta_i$ is the angle from the center of our agent to the nearest point o
 
 Then we add up $F$ like the equation above, normalize it, and use it as the direction vector of our agent.
 
-## Demov Video
+## Demo Video
 
 https://github.com/tzcrowdis/ForceInspiredNavigation/assets/100492586/7eb6301f-f711-45cb-a3b1-56e37a7eba3a
 
